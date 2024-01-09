@@ -18,8 +18,8 @@ Copy code
 
 
 The logic equations for the sum (S) and carry-out (Cout) are:
-S=A⊕B⊕Cin
 
+S=A⊕B⊕Cin
 
 Cout=(A⋅B)+(Cin⋅(A⊕B))
 
