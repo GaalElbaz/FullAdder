@@ -15,8 +15,9 @@ Copy code
 |  1  | 0 | 1 |    0    |   1  |
 |  1  | 1 | 0 |    0    |   1  |
 |  1  | 1 | 1 |    1    |   1  |
-The logic equations for the sum (S) and carry-out (Cout) are:
 
+
+The logic equations for the sum (S) and carry-out (Cout) are:
 S=A⊕B⊕Cin
 
 
