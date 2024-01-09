@@ -18,6 +18,8 @@ Copy code
 The logic equations for the sum (S) and carry-out (Cout) are:
 
 S=A⊕B⊕Cin
+
+
 Cout=(A⋅B)+(Cin⋅(A⊕B))
 
 These equations showcase the XOR (exclusive OR) and AND gates' role in determining the sum and carry-out. The full adder's versatility makes it a critical component in constructing multi-bit adders, such as ripple-carry adders and carry-lookahead adders, enabling efficient arithmetic operations in digital systems.
